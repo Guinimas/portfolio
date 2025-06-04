@@ -1,0 +1,37 @@
+section, main{
+    padding: 20px;
+    text-align: center;
+    background-color: #88cdff;
+}
+.container{
+    background-color:#ffffeb;
+    padding: 20px 20px 20px 20px;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+p{
+    font-size: 20px;
+    /* padding: 0 400px 0 400px */
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+h1{text-align: center;}
+#imagemPerfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+body{
+    background-color: #ffffeb;
+
+}
+footer{
+    max-height: 100px;
+    background-color: #ffffeb;
+    text-align: center;
+    padding: 10px;
+}
