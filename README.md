@@ -1,2 +1,12 @@
 # Desenvolvimento do meu primeiro portfolio web
-## No momento ainda está em desenvolvimento
+## Status
+- Em Desenvolvimento
+
+## Funcionalidades
+- Apresentação
+- Exibição de principais projetos
+- Soft skills e hard skills
+
+## Tecnologias
+- HTML
+- CSS
